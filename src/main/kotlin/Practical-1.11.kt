@@ -93,3 +93,4 @@ class Matrix(private val matrix: Array<IntArray>, private val rows: Int, private
         return Matrix(mul, this.rows, obj.cols)
     }
 }
+
