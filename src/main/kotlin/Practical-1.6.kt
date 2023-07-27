@@ -15,7 +15,7 @@ fun main(){
     val x = 173
     val y = 11
     println("Addition of: "+add(x, y))
-    println("Substraction of: "+subtr(x, y))
+    println("Subtraction of: "+subtr(x, y))
     println("Multiplication of: "+multi(x, y))
     println("Division of: "+div(x, y))
 }
