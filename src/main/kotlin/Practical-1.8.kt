@@ -14,6 +14,7 @@ fun main() {
     val list = listOf(6, 7, 8, 9, 10)
     val array3 = list.toIntArray()
 
+
     // 4. Using 'Array' constructor with lambda expression
     val array4 = Array(5) { i -> i * 2 }
 
